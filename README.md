@@ -1,47 +1,8 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-  <style>
-    body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-      font-family: 'Arial', sans-serif;
-    }
 
-    #avatar {
-      border-radius: 50%;
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
-      margin-bottom: 20px;
-    }
-
-    h1 {
-      margin-bottom: 10px;
-    }
-
-    h2 {
-      color: #555;
-      margin-bottom: 30px;
-    }
-
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    li {
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-
-<body>
-
-  <img id="avatar" src="profile_picture.jpg" alt="Profile Picture">
+  <div align="center">
+  <img src="profile_picture.jpg" alt="Profile Picture" width="150" height="150">
+</div>
 
   # John Doe
 
@@ -113,6 +74,3 @@
   - Reading
   - Coding challenges
 
-</body>
-
-</html>
