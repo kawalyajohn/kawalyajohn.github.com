@@ -2,7 +2,7 @@
 
   <div align="center">
   <img src="profile_picture.jpg" alt="Profile Picture" width="150" height="150">
-</div>
+
 
   # John Doe
 
@@ -73,4 +73,4 @@
   - Hiking
   - Reading
   - Coding challenges
-
+</div>
