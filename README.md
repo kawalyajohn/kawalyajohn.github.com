@@ -1,72 +1,118 @@
-# Kawalya John
+<!DOCTYPE html>
+<html>
 
-![profile_picture.jpg](https://avatars.githubusercontent.com/u/131139184?v=4)
+<head>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      font-family: 'Arial', sans-serif;
+    }
 
-## Contact Information
+    #avatar {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      margin-bottom: 20px;
+    }
 
-- **Email:** kawalyajohn909@gmail.com
-- **LinkedIn:** [John Doe](https://www.linkedin.com/in/johndoe/)
-- **GitHub:** [johndoe](https://github.com/kawalyajohn)
-- **Location:** kampala, Uganda
+    h1 {
+      margin-bottom: 10px;
+    }
 
-## Summary
+    h2 {
+      color: #555;
+      margin-bottom: 30px;
+    }
 
-Motivated and detail-oriented software developer with X years of experience in building web applications. Adept at collaborating with cross-functional teams to drive project success. 
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
 
-## Education
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
 
-### Bachelor of Science in Computer Science
-**Makerere University**, Makerere, Uganda  
-*Graduation Date: Month Year*
+<body>
 
-## Work Experience
+  <img id="avatar" src="profile_picture.jpg" alt="Profile Picture">
 
-### Software Developer
-**Company ABC**, City, Country  
-*Month Year - Present*
+  # John Doe
 
-- Developed and maintained web applications using React and Node.js.
-- Collaborated with UX/UI designers to implement responsive and user-friendly interfaces.
-- Participated in code reviews and provided constructive feedback.
+  ## Contact Information
 
-### Junior Developer
-**Tech Solutions Ltd.**, City, Country  
-*Month Year - Month Year*
+  - **Email:** john.doe@email.com
+  - **LinkedIn:** [John Doe](https://www.linkedin.com/in/johndoe/)
+  - **GitHub:** [johndoe](https://github.com/johndoe)
+  - **Location:** City, Country
 
-- Assisted in the development of e-commerce platforms using Django and Angular.
-- Troubleshooted and resolved software defects and issues.
+  ## Summary
 
-## Skills
+  Motivated and detail-oriented software developer with X years of experience in building web applications. Adept at collaborating with cross-functional teams to drive project success.
 
-- **Programming Languages:** JavaScript, Python
-- **Web Technologies:** HTML, CSS, React, Node.js
-- **Database:** MongoDB, MySQL
-- **Version Control:** Git
-- **Other Tools:** VS Code, Jira
+  ## Education
 
-## Projects
+  ### Bachelor of Science in Computer Science
+  **University Name**, City, Country  
+  *Graduation Date: Month Year*
 
-### Project Name 1
-- Description of the project, including technologies used and your role.
-- Link to the project repository or live demo.
+  ## Work Experience
 
-### Project Name 2
-- Description of the project, including technologies used and your role.
-- Link to the project repository or live demo.
+  ### Software Developer
+  **Company ABC**, City, Country  
+  *Month Year - Present*
 
-## Certifications
+  - Developed and maintained web applications using React and Node.js.
+  - Collaborated with UX/UI designers to implement responsive and user-friendly interfaces.
+  - Participated in code reviews and provided constructive feedback.
 
-### Certification Name
-**Issuing Organization**, *Month Year*
+  ### Junior Developer
+  **Tech Solutions Ltd.**, City, Country  
+  *Month Year - Month Year*
 
-## Languages
+  - Assisted in the development of e-commerce platforms using Django and Angular.
+  - Troubleshooted and resolved software defects and issues.
 
-- English (Fluent)
-- Spanish (Intermediate)
+  ## Skills
 
-## Hobbies
+  - **Programming Languages:** JavaScript, Python
+  - **Web Technologies:** HTML, CSS, React, Node.js
+  - **Database:** MongoDB, MySQL
+  - **Version Control:** Git
+  - **Other Tools:** VS Code, Jira
 
-- Hiking
-- Reading
-- Coding challenges
+  ## Projects
 
+  ### Project Name 1
+  - Description of the project, including technologies used and your role.
+  - Link to the project repository or live demo.
+
+  ### Project Name 2
+  - Description of the project, including technologies used and your role.
+  - Link to the project repository or live demo.
+
+  ## Certifications
+
+  ### Certification Name
+  **Issuing Organization**, *Month Year*
+
+  ## Languages
+
+  - English (Fluent)
+  - Spanish (Intermediate)
+
+  ## Hobbies
+
+  - Hiking
+  - Reading
+  - Coding challenges
+
+</body>
+
+</html>
