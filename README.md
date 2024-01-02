@@ -1,6 +1,6 @@
 # Kawalya John
 
-![Profile Picture]([profile_picture.jpg](https://avatars.githubusercontent.com/u/131139184?v=4))
+![profile_picture.jpg](https://avatars.githubusercontent.com/u/131139184?v=4)
 
 ## Contact Information
 
